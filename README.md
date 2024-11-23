@@ -4,7 +4,7 @@ Welcome to the **IIITV Connect** repository! This project is a fully responsive 
 
 ### 🌐 Live Preview
 
-Check out the live version of the website [here](https://react-college-website.vercel.app/)
+Check out the live version of the website [here](https://iiitv-connect.vercel.app/)
 
 ### 🌐 Screenshots
 
