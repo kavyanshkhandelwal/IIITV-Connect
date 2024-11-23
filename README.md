@@ -1,6 +1,6 @@
-# 🎓 Educational Institution Website
+# 🎓 IIITV Connect
 
-Welcome to the **Educational Institution Website** repository! This project is a fully responsive and modern website designed for educational institutions, built using React.js. THe website features various sections including About Us, Blog, Courses, and Contact Us, each tailored to provide a comprehensive and engaging user experience.
+Welcome to the **IIITV Connect** repository! This project is a fully responsive and modern website designed for the Indian Institute of Information Technology, Vadodara (IIITV). Built with React.js, the website features various sections, including About Us, Courses, Events, and Contact Us, each carefully crafted to offer an informative and user-friendly experience for students, faculty, and visitors alike.
 
 ### 🌐 Live Preview
 
