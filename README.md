@@ -11,14 +11,10 @@ Check out the live version of the website [here](https://react-college-website.v
 Here's a sneak peek of what the website looks like:
 ![Educational Institution Website](./public/preview.png)
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack Used
 
 - **Frontend:** React.js
 - **Styling:** CSS
 - **Routing:** React Router DOM
 
----
 
-Thank you for checking out, If you find this project helpful, please consider giving it a ⭐.
-
----
