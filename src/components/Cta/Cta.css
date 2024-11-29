@@ -1,4 +1,6 @@
 /* CTA (call to action) Section Styles */
+
+/*
 .cta {
   margin: 100px auto;
   width: 80%;
@@ -15,6 +17,55 @@
   color: #fff;
   margin-bottom: 40px;
   padding: 0;
+}
+
+.cta a {
+  text-decoration: none;
+}
+*/
+
+/* Responsive styles for smaller screens */
+/*
+@media (max-width: 768px) {
+  .cta h1 {
+    font-size: 22px;
+  }
+}
+*/
+
+/* CTA (call to action) Section Styles */
+.cta {
+  position: relative;
+  margin: 100px auto;
+  width: 80%;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  height: 90vh;
+}
+
+.cta-video {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.cta-content {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+  padding: 35vh 20px;
+  background: rgba(0, 0, 0, 0.5); /* Add a semi-transparent overlay */
+  border-radius: 10px;
+  height: 90vh;
+}
+
+.cta h1 {
+  margin-bottom: 40px;
 }
 
 .cta a {
